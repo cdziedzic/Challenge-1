@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* image of people sitting at conference table */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
