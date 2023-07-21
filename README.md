@@ -3,9 +3,9 @@
 This is a website that contains some basic company overview information. 
 For the assignment I took the provided code and changed some of the HTML to semantic HTML and consolidated some of the CSS stylesheet to make everything more concise and easier to follow.
 
-## Depoyed page link
+## Deployed page link
 
-https://github.com/cdziedzic/Horiseon
+https://cdziedzic.github.io/Horiseon/
 
 ## Screenshot of page 
 
